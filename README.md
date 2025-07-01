@@ -105,6 +105,10 @@ Serious vs. Fatal Injuries: A scatter plot analysis showed no clear linear relat
 
 ![image](https://github.com/user-attachments/assets/9a4f7631-e588-46f9-a4f8-4cfc23371bb5)
 
+Tableau Dashboard
+Here is the link to the tableau dashboard;https://public.tableau.com/views/AviationDataDashboard_17513497831340/AviationDataAnalysisDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+
+
 Key Conclusions & Recommendations
 Focus on General Aviation: The highest frequency of accidents occurs during "Personal" flights. This highlights a significant risk in private/recreational flying. Safety campaigns, enhanced training, and awareness programs should be targeted at general aviation pilots.
 
